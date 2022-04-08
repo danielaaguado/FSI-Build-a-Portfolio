@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    }
+
+div {
+
+    color: white;
+}
+
+img {
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: aliceblue;
+}
+
+hr {
+    border-style: dashed;
+}
+
+.first-paragraph {
+      color: aqua;
+}
+
+.second-paragraph {
+    color: darkgoldenrod;
+}
+
+.third-paragraph {
+    color: mediumvioletred;
+    text-align: center;
+}
